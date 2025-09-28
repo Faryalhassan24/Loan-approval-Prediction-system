@@ -13,15 +13,17 @@ This project develops a Machine Learning model to predict whether a loan applica
 •	Loaded loan dataset
 •	Handled missing values
 •	Converted categorical variables into numerical (Label Encoding)
-•	Feature scaling where required
+
 2. Exploratory Data Analysis (EDA)
 •	Analyzed distributions of applicants’ income, loan amount, and credit history
 •	Visualized relationships between applicant features and loan status
 •	Compared approval rates across gender, marital status, and employment status
-3. Model Building
-•	Trained multiple machine learning models (Logistic Regression, Decision Tree)
-•	Applied train-test split for evaluation
-•	Tuned hyperparameters for better accuracy
+
+3.  Model Building
+•	Trained Logistic Regression and Decision Tree models
+•	Applied 70-30 train-test split for evaluation
+•	Used default parameters for model training
+
 4. Model Evaluation
 •	Compared models using accuracy, precision, recall, and F1-score
 •	Selected the best-performing model for final prediction
