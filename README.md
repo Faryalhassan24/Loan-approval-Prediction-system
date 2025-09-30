@@ -1,13 +1,6 @@
 ## About the project
 This project develops a Machine Learning model to predict whether a loan application should be approved or not, based on applicant details. The system helps financial institutions streamline the loan approval process by automating decision-making.
 
-### Technologies Used
-•	Python
-•	Pandas
-•	Matplotlib, Seaborn
-•	Scikit-learn (Logistic Regression, Decision Tree)
-•	Jupyter Notebook
-
 ### Project Workflow
 1. Data Collection & Preprocessing
 •	Loaded loan dataset
